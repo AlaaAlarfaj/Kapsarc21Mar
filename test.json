@@ -15,21 +15,21 @@
       "fill": "#f06362"
     },
     {
-      "id": "3.162",
-      "parent": "2.15",
-      "name": "Russia",
+      "id": "energy-1",
+      "parent": "energy",
+      "name": "Electricity generation",
       "value": 143989754
     },
     {
-      "id": "3.163",
-      "parent": "2.15",
-      "name": "Ukraine",
+      "id": "energy-2",
+      "parent": "energy",
+      "name": "Road transport",
       "value": 44222947
     },
     {
-      "id": "3.164",
-      "parent": "2.15",
-      "name": "Poland",
+      "id": "energy-3",
+      "parent": "energy",
+      "name": "Desalination",
       "value": 38170712
     },
     {
