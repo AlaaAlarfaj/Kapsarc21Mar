@@ -15,6 +15,18 @@
       "fill": "#f06362"
     },
     {
+        "id": "industrial-processes",
+        "parent": "co2",
+        "name": "Industrial processes",
+        "fill": "#43c5f1"
+      },
+      {
+        "id": "agriculture",
+        "parent": "co2",
+        "name": "Agriculture",
+        "fill": "#66c088"
+      },
+    {
       "id": "energy-1",
       "parent": "energy",
       "name": "Electricity generation",
@@ -33,12 +45,7 @@
       "value": 38170712
     },
     
-    {
-      "id": "industrial-processes",
-      "parent": "co2",
-      "name": "Industrial processes",
-      "fill": "#43c5f1"
-    },
+    
     {
         "id": "industrial-processes-1",
         "parent": "industrial-processes",
@@ -50,13 +57,8 @@
         "parent": "industrial-processes",
         "name": "Desalination",
         "value": 38170712
-      },
+      }
    
-    {
-      "id": "agriculture",
-      "parent": "co2",
-      "name": "Agriculture",
-      "fill": "#66c088"
-    },
+    
    
   ]
