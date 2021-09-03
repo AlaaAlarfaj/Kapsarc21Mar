@@ -39,6 +39,18 @@
       "name": "Industrial processes",
       "fill": "#43c5f1"
     },
+    {
+        "id": "industrial-processes-1",
+        "parent": "industrial-processes",
+        "name": "Road transport",
+        "value": 44222947
+      },
+      {
+        "id": "industrial-processes-2",
+        "parent": "industrial-processes",
+        "name": "Desalination",
+        "value": 38170712
+      },
    
     {
       "id": "agriculture",
